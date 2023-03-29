@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Bordeaux
+Favorite food: Hamburger
+Favorite musician/band: Imagine Dragons
+Favorite movie: The Big Short
+Requested grade in the course: 95 
